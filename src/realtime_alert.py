@@ -17,9 +17,9 @@ sequence_length = 60
 threshold = 0.003   # 0.3%
 check_interval = 300  # 5 minutes (300 sec)
 
-# Telegram config (fill later)
-TELEGRAM_TOKEN = "8594607204:AAE0TMypceJQ-MkuL2jR2MbDAHVyZpesJeQ"
-TELEGRAM_CHAT_ID = "1297702845"
+# Telegram config
+TELEGRAM_TOKEN = "85946098804:AAE0TMypceJQ-uhuhAHyZpesJeQ"
+TELEGRAM_CHAT_ID = "3456789900"
 
 # ======================
 # Load model & scaler
