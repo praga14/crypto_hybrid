@@ -1,0 +1,34 @@
+===== FINAL REAL METRICS =====
+MAE  (Real Price Error): 373.74
+RMSE (Real Price Error): 581.61
+R2 Score: 0.9985
+Directional Accuracy: 47.56%
+
+
+2026-02-18 17:28:32.903777: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE SSE2 SSE3 SSE4.1 SSE4.2 AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+System Started ✅
+1/1 [==============================] - 0s 360ms/step
+
+===== ALERT =====
+Time: 2026-02-18 17:28:34.750888
+Current: 67397.38
+Predicted: 67370.02
+Change %: -0.041
+Signal: HOLD
+1/1 [==============================] - 0s 21ms/step
+
+===== ALERT =====
+Time: 2026-02-18 17:33:37.144499
+Current: 67496.5
+Predicted: 67372.83
+Change %: -0.183
+Signal: HOLD
+1/1 [==============================] - 0s 12ms/step
+
+===== ALERT =====
+Time: 2026-02-18 17:38:39.571273
+Current: 67632.0
+Predicted: 67412.15
+Change %: -0.325
+Signal: SELL
